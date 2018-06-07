@@ -41,7 +41,6 @@ Simply add `print(7 + 10)` in the script on the right and hit 'Submit Answer'.
 print(5 / 8)
 
 # Put code below here
-
 ```
 `@solution`
 ```{python}
@@ -61,6 +60,70 @@ test_function("print", 2, not_called_msg = msg, incorrect_msg = msg)
 success_msg("Great!")
 ```
 
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+
+xp: 50
+
+key: 4fec2aeb29
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 50
+
+key: d4f6f8ce43
+
+
+
+```
+
+assignment
+
+
+`@hint`
+hint
+
+
+
+
+
+`@possible_answers`
+- [1]
+- 2
+
+`@feedbacks`
+- yes
+- no
 
 
 
