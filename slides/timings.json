@@ -1,0 +1,32 @@
+{
+  "slides/chapter_1_171805a72bdc5963d4532d41c5aec6bf.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.023505300819150893,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.42280882503323886,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.5795729897238991,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    }
+  ]
+}
