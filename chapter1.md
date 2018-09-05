@@ -26,3 +26,49 @@ xp: 50
 
 `@projector_key`
 f631216f10a9324607e9009741e598b2
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: e86d723676
+xp: 100
+```
+
+this is the assignment
+
+`@instructions`
+- 1
+- 2
+
+`@hint`
+a hint
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
