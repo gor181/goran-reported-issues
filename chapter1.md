@@ -1,37 +1,27 @@
 ---
-  title: "Chapter"
-  description: "The first chapter"
-  v2: true
-
+title: Chapter
+description: 'The first chapter'
 ---
+
 ## Insert exercise title here
 
 ```yaml
 type: VideoExercise
-
-xp: 50
-
 key: f197678c63
-
-
-
+xp: 50
 ```
 
 `@projector_key`
 171805a72bdc5963d4532d41c5aec6bf
 
 ---
+
 ## A new title
 
 ```yaml
 type: VideoExercise
-
-xp: 50
-
 key: ee85f12e42
-
-
-
+xp: 50
 ```
 
 `@projector_key`
