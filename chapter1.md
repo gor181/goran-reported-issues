@@ -47,28 +47,21 @@ this is the assignment
 a hint
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
