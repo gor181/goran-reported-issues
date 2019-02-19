@@ -1,6 +1,7 @@
 ---
 title: Chapter
 description: 'The first chapter'
+free_preview: true
 ---
 
 ## Insert exercise title here
